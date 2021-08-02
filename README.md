@@ -1,5 +1,5 @@
 ##Sejam bem-vindos 👋
-- 🔭 Trabalho como Back-end
+- 🔭 Trabalho com Back-end
 - 🌱 Estou estudando Java
  <div>
   <a href="https://github.com/rafaballerini">
