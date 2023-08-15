@@ -1,7 +1,7 @@
 ## Sejam bem-vindos 👋
 - 🔭 Trabalho com Back-end
 - 🌱 Estou estudando Java e Angular
-
+- Olá! Sou um desenvolvedor apaixonado e comprometido com a criação de soluções inovadoras e eficientes. Ao longo da minha carreira, tenho me especializado em tecnologias como AngularJS, TypeScript, PostgreSQL e Java, buscando constantemente aprimorar minhas habilidades e acompanhar as tendências do mercado. Atualmente trabalho na BeVeloster onde atuo como terceirizado desde março de 2022. Durante esse período, tive a oportunidade de trabalhar em projetos desafiadores, o que me permitiu aprimorar minhas habilidades técnicas e desenvolver uma abordagem centrada no cliente.
  <div>
   <a href="https://github.com/osvaldomoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osvaldomoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
